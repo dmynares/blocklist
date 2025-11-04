@@ -4,10 +4,6 @@
 
 0.0.0.0 wearedevs.net
 0.0.0.0 www.wearedevs.net
-0.0.0.0 cdn.wearedevs.net
-0.0.0.0 api.wearedevs.net
 
 0.0.0.0 jjsploit.net
 0.0.0.0 www.jjsploit.net
-0.0.0.0 cdn.jjsploit.net
-0.0.0.0 api.jjsploit.net
